@@ -28,7 +28,7 @@ Then for a coordinate `(r, h)`, angles `alpha` (angle of `red` arm from `X' axis
 4. `Motor 3` is used at the root of junction of `red` and `green` arms and measures angle `beta`(angle of `green` arm from `red arm` in counter-clockwise direction).
 5. Analog Pins of `Motor 1`, `Motor 2` and `Motor 3` potentiometers are connected to `A8`, `A9` and `A10` pin slots respectively.
 
-## Contributos
+## Contributors
 1. Abhishek Kr Mishra
 2. Akash Chauhan
 3. Umakant Vashishtha
